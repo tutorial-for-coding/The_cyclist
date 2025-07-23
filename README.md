@@ -69,7 +69,7 @@ Welcome to an exciting 7-day coding adventure where kids will learn Python progr
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/pygame-for-kids.git
+   git clone https://github.com/tutorial-for-coding/Programming-for-kids.git
    cd pygame-for-kids
    ```
 
