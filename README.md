@@ -81,8 +81,6 @@ Welcome to an exciting 7-day coding adventure where kids will learn Python progr
 3. **Start with Day 1:**
    ```bash
    # Open the day1.ipynb notebook in Jupyter or VS Code
-   # Or run the Python code directly
-   python day1.py
    ```
 
 ## Project Structure
