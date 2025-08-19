@@ -5,6 +5,16 @@
 
 Welcome to an exciting 7-day coding adventure where kids will learn Python programming and Object-Oriented Programming (OOP) concepts by building a complete platformer game! By the end of this tutorial, students will have created "The Cyclist: An Unforeseen Journey" - a fun game where players navigate obstacles, collect rewards, and experience an epic cycling adventure.
 
+## About Spiralogics & CSR Initiative
+
+This program is part of the Corporate Social Responsibility (CSR) initiative by Spiralogics International Pvt. Ltd., a global software development company.
+
+Every year, Spiralogics dedicates time and resources to Programming for Kids, with the mission of inspiring young learners to explore the world of technology and coding.
+
+In 2025, the program took the form of teaching kids Python programming and game development with Pygame, allowing them to learn coding concepts through the excitement of creating their very own video game.
+
+We believe that empowering the next generation with programming knowledge not only fosters creativity but also builds problem-solving skills that will serve them in all walks of life.
+
 ## What You'll Learn
 
 - **Python Basics**: Variables, constants, and basic syntax
